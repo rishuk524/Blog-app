@@ -75,7 +75,4 @@ Follow these steps to set up the project on your local machine:
 
 *React Blognode was lovingly created by Gulshan Kumar. It's a testament to the power of React, Tailwind CSS, and Appwrite as a backend service.*
 
-Feel free to explore, and share your own stories with the world through React Blognode.
-
-
-_Made with ❤️ by [Gulshan Kumar](https://www.linkedin.com/in/gulshan-kumar-8293b9260/)_
+Feel free to explore, and share your own stories with the world through React Blognode
