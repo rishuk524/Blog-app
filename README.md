@@ -57,7 +57,7 @@ Follow these steps to set up the project on your local machine:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/gulshan07dev/blog-react-app.git
+   https://github.com/rishuk524/Blog-app
    ```
 
 2. Set up the project:
