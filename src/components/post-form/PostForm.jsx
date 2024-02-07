@@ -91,6 +91,7 @@ export default function PostForm({ post }) {
   }, [watch, slugTransform, setValue]);
 
   return (
+    
     <form
       onSubmit={handleSubmit(submit)}
       className="flex md:justify-center gap-7 max-md:flex-col"
